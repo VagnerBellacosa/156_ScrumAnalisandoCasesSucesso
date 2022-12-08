@@ -13,7 +13,16 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Introdução ao Desafio](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/b7a5d54a-68d7-4a5b-bd75-fc7be43c2d42)[O Que é um Desafio de Projeto](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/655f9f4f-d389-45bb-8933-cbf39e6cdbc8)[Case 01 - Sony](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/8d1e11dc-bf97-468d-9f65-ffeeddb4f837)[Case 02 - Intel](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/46a7f5d2-a843-4194-a1b4-5b4d02bb3b4d)[Case 03 - H&R Block](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/9d11b669-975e-4007-ba5f-d9334db4c892)[Outros Cases](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/d0c50a16-ea55-4369-818a-cf6c554ba876)[Pontos Importantes](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/ab2237a3-46c7-4e4f-bb0f-3191a26b5bca)[Entendendo o Desafio](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/c31974e3-f32f-40d9-bf84-ab34d09af67b)[Entregando o Desafio e Dicas Finais](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/a825c446-d452-4754-80b1-fa40c41d6810)[Materiais de apoio](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/bb43e9b3-39c5-4a41-813d-dd97fd971a2b)
+- [Introdução ao Desafio](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/b7a5d54a-68d7-4a5b-bd75-fc7be43c2d42)
+- [O Que é um Desafio de Projeto](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/655f9f4f-d389-45bb-8933-cbf39e6cdbc8)
+- [Case 01 - Sony](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/8d1e11dc-bf97-468d-9f65-ffeeddb4f837)
+- [Case 02 - Intel](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/46a7f5d2-a843-4194-a1b4-5b4d02bb3b4d)
+- [Case 03 - H&R Block](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/9d11b669-975e-4007-ba5f-d9334db4c892)
+- [Outros Cases](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/d0c50a16-ea55-4369-818a-cf6c554ba876)
+- [Pontos Importantes](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/ab2237a3-46c7-4e4f-bb0f-3191a26b5bca)
+- [Entendendo o Desafio](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/c31974e3-f32f-40d9-bf84-ab34d09af67b)
+- [Entregando o Desafio e Dicas Finais](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/a825c446-d452-4754-80b1-fa40c41d6810)
+- [Materiais de apoio](https://web.dio.me/lab/compreendendo-o-scrum-na-pratica/learning/bb43e9b3-39c5-4a41-813d-dd97fd971a2b)
 
 
 
